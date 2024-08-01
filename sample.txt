@@ -1,1 +1,2 @@
+updated this file just to use the single command for commit
 just Sample file
